@@ -1,5 +1,1 @@
-# Java
-
-## A hello world project in java 
-
-this ia amazing don't you think
+ANime shows a list of animes which are popular and awesome
